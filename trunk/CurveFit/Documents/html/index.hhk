@@ -1,0 +1,520 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#ad1c2286c60af674b8f041e81006ef50a"><param name="Name" value="A"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#ad1c2286c60af674b8f041e81006ef50a"><param name="Name" value="techniques::DataLinearization"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a6d56da4f252bda6b2b9e02122c807b1f"><param name="Name" value="techniques::LeastSquareLine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#aa5ca67b50dc6d5858a8b3dcd06058f59"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#af48dc5327b1075ad55703af4a2673c5d"><param name="Name" value="techniques::PowerFit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_help_window.html#a5195e1b33998def5dee2ee25e9a20eb1"><param name="Name" value="actionPerformed"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_help_window.html#a5195e1b33998def5dee2ee25e9a20eb1"><param name="Name" value="curvefit::HelpWindow"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a4b44fd89a103374075767e0ca9b9cbee"><param name="Name" value="curvefit::Main"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_preferences_window.html#ae269b7e85b41e5d50a5e96406622f6ba"><param name="Name" value="curvefit::PreferencesWindow"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a1b3fa23f1f51fd280e3f4677a557e9a2"><param name="Name" value="actualData"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a1b3fa23f1f51fd280e3f4677a557e9a2"><param name="Name" value="curvefit::PlotWindow"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a7afa7743f634f17019eda0c77d8da055"><param name="Name" value="techniques::DataLinearization"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a4615e663cd4c1f36f321ea7865c63d72"><param name="Name" value="techniques::LeastSquareLine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a0e8d3353903c4cb94995fa86198dc252"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#ae9d20b6dedf68700ea15d5591242539c"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#ac704971c6f8f4f8c62705f1c078903ff"><param name="Name" value="techniques::PowerFit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_help_window.html#a8bfdb94cc217840ac3496a30fd204bd5"><param name="Name" value="addButtons"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_maths.html#a47769da520a05da32e84ded59835316d"><param name="Name" value="answer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#aa6f55f70cab535e33318c5681ca638ea"><param name="Name" value="B"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#aa6f55f70cab535e33318c5681ca638ea"><param name="Name" value="techniques::DataLinearization"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a8f95a8deccb68ea3656311bed4fc6b7c"><param name="Name" value="techniques::LeastSquareLine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a3ee1d26dd714ace8c0052725aeeaccac"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a893045528111b73369b7ed8aa4a585e2"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a442ced96f903ee92a0925f0a0f465692"><param name="Name" value="browseButton"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#acb3f0ca0079beaaea11fc769fbf64653"><param name="Name" value="C"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#acb3f0ca0079beaaea11fc769fbf64653"><param name="Name" value="techniques::DataLinearization"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a2e98c0aea6ebf18317d6da88662aa13a"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#ac657aa16340eda5de3c8d456ad5ca7c9"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_help_window.html#ae4cc3627ac75a1c9a70bfdb64432d1b7"><param name="Name" value="calculateLocation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_preferences_window.html#a11d9e598f12d698a35ebec57a90899b2"><param name="Name" value="cancelButton"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a95872c2bee59e40e33c4cba9ed87aff2"><param name="Name" value="canvas"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_preferences_window.html#a7e6c90e25a67d155d4061f17fa6c1e25"><param name="Name" value="cbBars"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_preferences_window.html#a3c18168dfa9f6d6f6dfd0ed18269e922"><param name="Name" value="cbMultipleTech"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_preferences_window.html#a6100e4aae7d9db4c7e5fefab651aacf7"><param name="Name" value="cbQuadrant"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a28f7d176d0ba67f68d233a292b9fc2d7"><param name="Name" value="colors"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#ae38099481844c7d1cd4b133cef7f4dc6"><param name="Name" value="compPanel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_error_report.html"><param name="Name" value="curvefit::ErrorReport"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_error_report.html#ab2327d630a49efa5dfa55dd4e3fa14aa"><param name="Name" value="data"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_error_report.html#a1567721008023844672d6e8e15578b7f"><param name="Name" value="errFrame"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_error_report.html#aed982b33a355a6b1e3d35a64be27d5ad"><param name="Name" value="ErrorReport"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_error_report.html#ad44d665b57591cd007ae445bc96b5866"><param name="Name" value="row"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_error_report.html#ae10c095c1874ca64fc7d0d5be6779454"><param name="Name" value="scrollPane"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_error_report.html#ae791495524da9155180c7dec3df2b8d1"><param name="Name" value="setRow"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_error_report.html#a438b9a48a1cf7d58ee7390f0859a36e2"><param name="Name" value="show"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_help_window.html"><param name="Name" value="curvefit::HelpWindow"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_help_window.html#a5195e1b33998def5dee2ee25e9a20eb1"><param name="Name" value="actionPerformed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_help_window.html#a8bfdb94cc217840ac3496a30fd204bd5"><param name="Name" value="addButtons"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_help_window.html#ae4cc3627ac75a1c9a70bfdb64432d1b7"><param name="Name" value="calculateLocation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_help_window.html#af2cc308505c9df48b086d4879bbd8558"><param name="Name" value="HEIGHT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_help_window.html#afb93db44cd8a14486568855ba75bedd3"><param name="Name" value="HelpWindow"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_help_window.html#ae8dd3f7fd718f943c1b31ec033f0fe62"><param name="Name" value="WIDTH"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html"><param name="Name" value="curvefit::Main"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a4b44fd89a103374075767e0ca9b9cbee"><param name="Name" value="actionPerformed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a442ced96f903ee92a0925f0a0f465692"><param name="Name" value="browseButton"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#ae38099481844c7d1cd4b133cef7f4dc6"><param name="Name" value="compPanel"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a50e27d4fb5820f0411ec5d881e0cb351"><param name="Name" value="editMenu"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#ad474b5a1b888c1a4437827b65e19249a"><param name="Name" value="fileMenu"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a9a7f5ff30c62722900f92516e6f184df"><param name="Name" value="frame"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a63ff368b691ad54bc4d49aa976cd28c7"><param name="Name" value="helpMenu"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#ac3b5f8883ea7a3e3bf162634e605ebff"><param name="Name" value="main"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#aece01b8e47525b3387db0e4a7f1c017c"><param name="Name" value="Main"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a95931ed75486116470694e88bde9c14b"><param name="Name" value="mainPanel"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a90b8bfdb30a14bc5cd50e0e9d1083f37"><param name="Name" value="menuBar"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a7f4591a243fbd0da9c75932f017b4679"><param name="Name" value="menuCanceled"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#af60a0819da470e584ca57359ee171cc7"><param name="Name" value="menuDeselected"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a6564b44460806c77b626470ba911957c"><param name="Name" value="menuSelected"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a966125c9cb5a0bb9dc52c4d63a5566df"><param name="Name" value="namePanel"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a5d3b83df7590433939dd0696c3e76e6f"><param name="Name" value="nameTextField"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a012fff3122e20fa5e7a01f5ec173a58c"><param name="Name" value="plotButton"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#af62e5dda4dcc2d0960b6401b7af37078"><param name="Name" value="slider"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a32ded09fdb5ac2967617cb86f14e2de0"><param name="Name" value="sliderlabel"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a5954c58ff2bb64de5c4a33e210df0c68"><param name="Name" value="sliderlabelM"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a3ac69b2a96080db797f42a390243230d"><param name="Name" value="sliderM"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#ac0ce38dfef96dadf4a2127c9a5cca2b2"><param name="Name" value="stateChanged"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a8f35071f27423d96277de4d5784b57f0"><param name="Name" value="techniqueList"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a021b0d7c77c183856ad3d1a9bdd7b177"><param name="Name" value="value"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a7ca8636ba707251157dd9da09de0e9ae"><param name="Name" value="valueChanged"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a2d78b8d76caeb4ba973548d22ce08985"><param name="Name" value="valueM"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a0499b38ad0d8e92dcb7fdb4ec9740e74"><param name="Name" value="values"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_maths.html"><param name="Name" value="curvefit::Maths"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_maths.html#a47769da520a05da32e84ded59835316d"><param name="Name" value="answer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_maths.html#ae671b8068243b6ed022f695e5aa303d7"><param name="Name" value="gauss"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_maths.html#a27440eabfc62a584bd135aa957b9cf71"><param name="Name" value="lead"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_maths.html#a7b5c9029144f25d0d1aa8adc62d21322"><param name="Name" value="Maths"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_maths.html#a100ec493e29877a1b3b20a5a2b00382f"><param name="Name" value="solution"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_maths.html#adb68a83c9c09a487f65d207edee7c8c3"><param name="Name" value="system"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_maths.html#acb7c85c82aa4a28852108b944b7626db"><param name="Name" value="temp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_method_not_applicable_exception.html"><param name="Name" value="curvefit::MethodNotApplicableException"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html"><param name="Name" value="curvefit::PlotCanvas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a28f7d176d0ba67f68d233a292b9fc2d7"><param name="Name" value="colors"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a658d89622758e8e7d7cf87cdfbba7228"><param name="Name" value="dataToPlot"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#aa9523585aa20f76d58fb35d34ec18768"><param name="Name" value="g"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#acdcfcb9601b68d4c97274b0ef0692860"><param name="Name" value="getData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a9834fa061d96c7577f21b347fee1bcc9"><param name="Name" value="getGraphics"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a5ef9c4c01771f4af9495709e41a9d41b"><param name="Name" value="index"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a8c1a9fc13a934f719efdfa10a8be06e1"><param name="Name" value="numPts"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#abe1450ee2cc910933a62a57f505a5638"><param name="Name" value="paint"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#af4ae60b1764da5cfb894a49d2be987a4"><param name="Name" value="PlotCanvas"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a811e48035e96b8c468a409d5eb8a9910"><param name="Name" value="setDataToPlot"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a11dc9ac9f94710818ad3e8a9a575eebc"><param name="Name" value="setRange"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#ae00d5fb1dabafd3993cf6bac8f5189c5"><param name="Name" value="techniques"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a0b488a85eb8203bf670a69806bd4431b"><param name="Name" value="updatePosition"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#aff2c213f646c8459cd92971d748e70dd"><param name="Name" value="writeToFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a7a201ff6e0837c658d08106ad3702489"><param name="Name" value="xmax"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a2f2ce2f7cf6625c1827a77f7fcfee317"><param name="Name" value="xmin"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a0891c4da67fa692cb518726ed83debb8"><param name="Name" value="xScaleFactor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a743b41b3c7345bfb5b8a722590d9fca5"><param name="Name" value="xTrans"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a8a75fdd3ce2a0ad2cfe6b307994c53af"><param name="Name" value="ymax"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a0343d67be8ecc2103df7d6176b83961b"><param name="Name" value="ymin"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a97c689ff51f1524c58cc278ac3701e35"><param name="Name" value="yScaleFactor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#aa1990bec4ab4d24be1fd38b0cd8b9a62"><param name="Name" value="yTrans"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html"><param name="Name" value="curvefit::PlotWindow"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a1b3fa23f1f51fd280e3f4677a557e9a2"><param name="Name" value="actualData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a95872c2bee59e40e33c4cba9ed87aff2"><param name="Name" value="canvas"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a08ac072cdc372246ef40a74a1e3a8349"><param name="Name" value="errorMenu"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#adf7f06ab6b7cf5e84ede80c13e17f027"><param name="Name" value="errWindow"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a9d059db7662c6e89e5c0e13a1aa7fa71"><param name="Name" value="fittedData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a81df9b44ed3948d6b3b06d0cc81e0b97"><param name="Name" value="frame"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a688ddbeeb4492131a4782aab3aab4a79"><param name="Name" value="getDataFromFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#aa673d87d4f0b7b55eec73f6987e9b176"><param name="Name" value="menuBar"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#ace176f5e12f6d5307f6ad87d4232b417"><param name="Name" value="menuCanceled"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#ae12242ee6f2571ad521f43bf8bd851a3"><param name="Name" value="menuDeselected"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a749c11bd3eef3cfc7867112f3339d163"><param name="Name" value="menuSelected"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a58cdbea2c01e89bce2d31b5501a486ea"><param name="Name" value="mouseDragged"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a72fca12475ddfb2868313d69696b4205"><param name="Name" value="mouseMoved"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a1a90ca53c7cf0c158220910a7f3d030d"><param name="Name" value="PlotWindow"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a59406d1133388685f51f04715d809b4f"><param name="Name" value="point"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a07756a816f4613370f1f71ee77829e7c"><param name="Name" value="position"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#af3da0d64756e770df7b8e5a777008c93"><param name="Name" value="processInput"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a4dc15ff880b9de2b922a555a1403dcb1"><param name="Name" value="saveMenu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_point.html"><param name="Name" value="curvefit::Point"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_point.html#a95e4a6b42358c68ba27e95a94d1ea7a3"><param name="Name" value="getX"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_point.html#a612cbd14d9d621e81099c378948c5d35"><param name="Name" value="getY"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_point.html#a3b3564371616c47d577740478d848c92"><param name="Name" value="Point"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_point.html#ae9aa97acd39b4c73bfbd0687c0f343ac"><param name="Name" value="x"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_point.html#aca785012078c2ce8d4fabfdf336ceda8"><param name="Name" value="y"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_preferences_window.html"><param name="Name" value="curvefit::PreferencesWindow"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_preferences_window.html#ae269b7e85b41e5d50a5e96406622f6ba"><param name="Name" value="actionPerformed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_preferences_window.html#a11d9e598f12d698a35ebec57a90899b2"><param name="Name" value="cancelButton"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_preferences_window.html#a7e6c90e25a67d155d4061f17fa6c1e25"><param name="Name" value="cbBars"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_preferences_window.html#a3c18168dfa9f6d6f6dfd0ed18269e922"><param name="Name" value="cbMultipleTech"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_preferences_window.html#a6100e4aae7d9db4c7e5fefab651aacf7"><param name="Name" value="cbQuadrant"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_preferences_window.html#a72f8df18110995bc213a043b6e8ba890"><param name="Name" value="editFrame"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_preferences_window.html#a998daf2969fbde8330fd64cf579bb990"><param name="Name" value="okButton"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_preferences_window.html#a94ad85e6ebc58d0cdee2289df3395e56"><param name="Name" value="PreferencesWindow"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_error_report.html#ab2327d630a49efa5dfa55dd4e3fa14aa"><param name="Name" value="data"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a8c6f4a8a10257664e20c9eaa2b6e347e"><param name="Name" value="DataLinearization"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a658d89622758e8e7d7cf87cdfbba7228"><param name="Name" value="dataToPlot"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a3766d7dccf906fa8a331b3fa53441872"><param name="Name" value="degreeOfPolynomial"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_preferences_window.html#a72f8df18110995bc213a043b6e8ba890"><param name="Name" value="editFrame"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a50e27d4fb5820f0411ec5d881e0cb351"><param name="Name" value="editMenu"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#afba7d48037c1b05e5b81fa970b5a6fdb"><param name="Name" value="equation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#afba7d48037c1b05e5b81fa970b5a6fdb"><param name="Name" value="techniques::DataLinearization"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a164a84a80878f356f0fe4683275c841a"><param name="Name" value="techniques::LeastSquareLine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a55aabb7c12229023a13bf7b78cf7fe46"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#aec126d87b84e93dfa3fad962797612f2"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a4fd0df04d771c2bb3b891143609b72e2"><param name="Name" value="techniques::PowerFit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_error_report.html#a1567721008023844672d6e8e15578b7f"><param name="Name" value="errFrame"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a08ac072cdc372246ef40a74a1e3a8349"><param name="Name" value="errorMenu"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_error_report.html#aed982b33a355a6b1e3d35a64be27d5ad"><param name="Name" value="ErrorReport"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#adf7f06ab6b7cf5e84ede80c13e17f027"><param name="Name" value="errWindow"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#ad474b5a1b888c1a4437827b65e19249a"><param name="Name" value="fileMenu"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a3c60b6388a38d8eb0fd9f40614df9f36"><param name="Name" value="findCurve"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a3c60b6388a38d8eb0fd9f40614df9f36"><param name="Name" value="techniques::DataLinearization"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#ae9bfcaf65b21deb2ab427c44c429892b"><param name="Name" value="techniques::LeastSquareLine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a9dadea8d07b3d705e51b88bd2081ad99"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a717ec87562a635f40d9b3450000b2d12"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a0a1bd4062fbccf38f3a898826379eb77"><param name="Name" value="techniques::PowerFit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a9d059db7662c6e89e5c0e13a1aa7fa71"><param name="Name" value="fittedData"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a9d059db7662c6e89e5c0e13a1aa7fa71"><param name="Name" value="curvefit::PlotWindow"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a16b3dac4915b7d5f10cd32894dd4891b"><param name="Name" value="techniques::DataLinearization"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#ac24e19d42f1127cba9f4352eb3703774"><param name="Name" value="techniques::LeastSquareLine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#abe8264a1c7801fc61d5fdfcf72114825"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a640edc2d462423fb6e37b9d6fd610ca1"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a26086263448edaa7eedbb7d73741ce22"><param name="Name" value="techniques::PowerFit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a9a7f5ff30c62722900f92516e6f184df"><param name="Name" value="frame"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a9a7f5ff30c62722900f92516e6f184df"><param name="Name" value="curvefit::Main"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a81df9b44ed3948d6b3b06d0cc81e0b97"><param name="Name" value="curvefit::PlotWindow"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#aa9523585aa20f76d58fb35d34ec18768"><param name="Name" value="g"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_maths.html#ae671b8068243b6ed022f695e5aa303d7"><param name="Name" value="gauss"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#acdcfcb9601b68d4c97274b0ef0692860"><param name="Name" value="getData"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a688ddbeeb4492131a4782aab3aab4a79"><param name="Name" value="getDataFromFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a2f7c77e77bce133dd26ade4fce459c77"><param name="Name" value="getEquation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a2f7c77e77bce133dd26ade4fce459c77"><param name="Name" value="techniques::DataLinearization"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#ae844009e982dde7d2bde9cd45ddd1ccf"><param name="Name" value="techniques::LeastSquareLine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#aaf7cfdf369ac00c74d44e03dab6b7cb5"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a745af6ab086d0e2931ed0e3a8217f6e3"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a949ccf8d089389f1d578e8617abde80d"><param name="Name" value="techniques::PowerFit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#ad832b6a1c0d6d9c33e18416f35ebadf1"><param name="Name" value="getFittedData"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#ad832b6a1c0d6d9c33e18416f35ebadf1"><param name="Name" value="techniques::DataLinearization"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a9c32deca6d36e17c3148b33c7ac3f57b"><param name="Name" value="techniques::LeastSquareLine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a3cb9f2ca93e644d3390c8c58647f5964"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a6266debdcf4ffaf33f44c5757699d685"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#ad63c026ad5a81f84696e996b3c256f8c"><param name="Name" value="techniques::PowerFit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a9834fa061d96c7577f21b347fee1bcc9"><param name="Name" value="getGraphics"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a90e98bb4feb65ea172f52e620eafa4d6"><param name="Name" value="getRMS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a90e98bb4feb65ea172f52e620eafa4d6"><param name="Name" value="techniques::DataLinearization"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a523784393da9fea422beea1eec592116"><param name="Name" value="techniques::LeastSquareLine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#afcb45ed55bd22386a896fb7d92dd18dc"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#aac0d417ea9e89269848e53770aacf44a"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a30bd3969b3d2c3901cfd502bb5d9bcc9"><param name="Name" value="techniques::PowerFit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a36b96f934ad113df28b1835e4e54a18c"><param name="Name" value="getSD"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a36b96f934ad113df28b1835e4e54a18c"><param name="Name" value="techniques::DataLinearization"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#aa27d75f9c3c97d12388ff76acc0b2fa8"><param name="Name" value="techniques::LeastSquareLine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#aea5476a6f8bedcdc11876e64062f51f9"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a861e621c995cf5a36cd57f76ac7efec5"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a09f0fb309c001579b2c91ac1d204ab45"><param name="Name" value="techniques::PowerFit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_point.html#a95e4a6b42358c68ba27e95a94d1ea7a3"><param name="Name" value="getX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_point.html#a612cbd14d9d621e81099c378948c5d35"><param name="Name" value="getY"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_help_window.html#af2cc308505c9df48b086d4879bbd8558"><param name="Name" value="HEIGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a63ff368b691ad54bc4d49aa976cd28c7"><param name="Name" value="helpMenu"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_help_window.html#afb93db44cd8a14486568855ba75bedd3"><param name="Name" value="HelpWindow"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a5ef9c4c01771f4af9495709e41a9d41b"><param name="Name" value="index"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_maths.html#a27440eabfc62a584bd135aa957b9cf71"><param name="Name" value="lead"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a385aea5faae703029b99254cc2fc1c1a"><param name="Name" value="LeastSquareLine"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a5ec30b983cb031ecb99d2398a71e205e"><param name="Name" value="LeastSquareParabola"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#aeb8f921d8631157c254e5af0eb783796"><param name="Name" value="M"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#ac3b5f8883ea7a3e3bf162634e605ebff"><param name="Name" value="main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#aece01b8e47525b3387db0e4a7f1c017c"><param name="Name" value="Main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a95931ed75486116470694e88bde9c14b"><param name="Name" value="mainPanel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_maths.html#a7b5c9029144f25d0d1aa8adc62d21322"><param name="Name" value="Maths"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a3037e55336d245177738ed4cb0037ef5"><param name="Name" value="maths"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a3037e55336d245177738ed4cb0037ef5"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a623b845b59db5733a5468ac9432cd2a6"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a3c5921c5c5d1a0bdeea853901f22c75a"><param name="Name" value="techniques::PowerFit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a90b8bfdb30a14bc5cd50e0e9d1083f37"><param name="Name" value="menuBar"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a90b8bfdb30a14bc5cd50e0e9d1083f37"><param name="Name" value="curvefit::Main"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#aa673d87d4f0b7b55eec73f6987e9b176"><param name="Name" value="curvefit::PlotWindow"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a7f4591a243fbd0da9c75932f017b4679"><param name="Name" value="menuCanceled"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a7f4591a243fbd0da9c75932f017b4679"><param name="Name" value="curvefit::Main"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#ace176f5e12f6d5307f6ad87d4232b417"><param name="Name" value="curvefit::PlotWindow"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#af60a0819da470e584ca57359ee171cc7"><param name="Name" value="menuDeselected"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#af60a0819da470e584ca57359ee171cc7"><param name="Name" value="curvefit::Main"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#ae12242ee6f2571ad521f43bf8bd851a3"><param name="Name" value="curvefit::PlotWindow"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a6564b44460806c77b626470ba911957c"><param name="Name" value="menuSelected"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a6564b44460806c77b626470ba911957c"><param name="Name" value="curvefit::Main"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a749c11bd3eef3cfc7867112f3339d163"><param name="Name" value="curvefit::PlotWindow"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_method_not_applicable_exception.html#a471fba4e74d537e3b71d29089bfecff9"><param name="Name" value="MethodNotApplicableException"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a58cdbea2c01e89bce2d31b5501a486ea"><param name="Name" value="mouseDragged"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a72fca12475ddfb2868313d69696b4205"><param name="Name" value="mouseMoved"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a966125c9cb5a0bb9dc52c4d63a5566df"><param name="Name" value="namePanel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a5d3b83df7590433939dd0696c3e76e6f"><param name="Name" value="nameTextField"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a8c1a9fc13a934f719efdfa10a8be06e1"><param name="Name" value="numPts"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_preferences_window.html#a998daf2969fbde8330fd64cf579bb990"><param name="Name" value="okButton"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a8732c3bcde636a23fd349b64c88a95a1"><param name="Name" value="P"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#abe1450ee2cc910933a62a57f505a5638"><param name="Name" value="paint"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a012fff3122e20fa5e7a01f5ec173a58c"><param name="Name" value="plotButton"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#af4ae60b1764da5cfb894a49d2be987a4"><param name="Name" value="PlotCanvas"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a1a90ca53c7cf0c158220910a7f3d030d"><param name="Name" value="PlotWindow"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a59406d1133388685f51f04715d809b4f"><param name="Name" value="point"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_point.html#a3b3564371616c47d577740478d848c92"><param name="Name" value="Point"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#aec61d2105cf1ceb806c6b2f15f70c05a"><param name="Name" value="point"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#aec61d2105cf1ceb806c6b2f15f70c05a"><param name="Name" value="techniques::DataLinearization"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a8c48bea5e945263642079a8c565797d1"><param name="Name" value="techniques::LeastSquareLine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a6580cb3912ad560456ee84d650cb6977"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#af73030628a37ef9f2a9d358e4bc32d72"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a105e49d15045c522f72cb9d0aa140ee9"><param name="Name" value="techniques::PowerFit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a29309b42bdea6ee64b52a8774bb8f7c4"><param name="Name" value="PolynomialFitting"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a07756a816f4613370f1f71ee77829e7c"><param name="Name" value="position"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a94a6029c0fe5b1f74edca4345dc9e4d2"><param name="Name" value="PowerFit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_preferences_window.html#a94ad85e6ebc58d0cdee2289df3395e56"><param name="Name" value="PreferencesWindow"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#af3da0d64756e770df7b8e5a777008c93"><param name="Name" value="processInput"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a35b345e28e9788f59a71196d3b99af98"><param name="Name" value="rootMeanSquareError"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a35b345e28e9788f59a71196d3b99af98"><param name="Name" value="techniques::DataLinearization"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a8be54ca3eea2b0f7f0c6966cde807b4f"><param name="Name" value="techniques::LeastSquareLine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#acbf4ed9d291d2e6486f6dffe9cad801e"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a13954b1e8fff2f0c3bddca2eca7ce15d"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a51ae2ba262d44ae0b00f1a3501d50940"><param name="Name" value="techniques::PowerFit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_error_report.html#ad44d665b57591cd007ae445bc96b5866"><param name="Name" value="row"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_window.html#a4dc15ff880b9de2b922a555a1403dcb1"><param name="Name" value="saveMenu"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_error_report.html#ae10c095c1874ca64fc7d0d5be6779454"><param name="Name" value="scrollPane"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a811e48035e96b8c468a409d5eb8a9910"><param name="Name" value="setDataToPlot"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a11dc9ac9f94710818ad3e8a9a575eebc"><param name="Name" value="setRange"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_error_report.html#ae791495524da9155180c7dec3df2b8d1"><param name="Name" value="setRow"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_error_report.html#a438b9a48a1cf7d58ee7390f0859a36e2"><param name="Name" value="show"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a7b3e01d5380bd09fb5bcbf9da4bcf6ec"><param name="Name" value="sizeOfData"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a7b3e01d5380bd09fb5bcbf9da4bcf6ec"><param name="Name" value="techniques::DataLinearization"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#af8865b2ac6e7bae185edc29315bc2b5d"><param name="Name" value="techniques::LeastSquareLine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#afa307b80a6a34437f890ea53a82a7089"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a4449018f054dd675288c867f99c9e91a"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a8f188876a10e10c4960f206b2338a440"><param name="Name" value="techniques::PowerFit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#af62e5dda4dcc2d0960b6401b7af37078"><param name="Name" value="slider"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a32ded09fdb5ac2967617cb86f14e2de0"><param name="Name" value="sliderlabel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a5954c58ff2bb64de5c4a33e210df0c68"><param name="Name" value="sliderlabelM"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a3ac69b2a96080db797f42a390243230d"><param name="Name" value="sliderM"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_maths.html#a100ec493e29877a1b3b20a5a2b00382f"><param name="Name" value="solution"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_maths.html#a100ec493e29877a1b3b20a5a2b00382f"><param name="Name" value="curvefit::Maths"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a5f5be752f2a12bbfeb5eb5d568cad224"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a48526a3c283037d01dea9bdabcee1aad"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#ac9327214c3db253b49dad5f19fe7995a"><param name="Name" value="standardDeviation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#ac9327214c3db253b49dad5f19fe7995a"><param name="Name" value="techniques::DataLinearization"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a35025bc5e10103263a1a964a43130817"><param name="Name" value="techniques::LeastSquareLine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#ac024ffb8d283c377948a9cc378f239b7"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#aec9de3a0ac7bc0ae8920a8b3bcfba8b7"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#ae10493b4c9b73639c9c93f9c8938288d"><param name="Name" value="techniques::PowerFit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#ac0ce38dfef96dadf4a2127c9a5cca2b2"><param name="Name" value="stateChanged"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_maths.html#adb68a83c9c09a487f65d207edee7c8c3"><param name="Name" value="system"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_maths.html#adb68a83c9c09a487f65d207edee7c8c3"><param name="Name" value="curvefit::Maths"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a207271a4747a5b4a976c88f19167f9e8"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a1eebdde0bc370ed701de03514c114b99"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a8f35071f27423d96277de4d5784b57f0"><param name="Name" value="techniqueList"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html"><param name="Name" value="techniques::DataLinearization"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#ad1c2286c60af674b8f041e81006ef50a"><param name="Name" value="A"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a7afa7743f634f17019eda0c77d8da055"><param name="Name" value="actualData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#aa6f55f70cab535e33318c5681ca638ea"><param name="Name" value="B"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#acb3f0ca0079beaaea11fc769fbf64653"><param name="Name" value="C"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a8c6f4a8a10257664e20c9eaa2b6e347e"><param name="Name" value="DataLinearization"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#afba7d48037c1b05e5b81fa970b5a6fdb"><param name="Name" value="equation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a3c60b6388a38d8eb0fd9f40614df9f36"><param name="Name" value="findCurve"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a16b3dac4915b7d5f10cd32894dd4891b"><param name="Name" value="fittedData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a2f7c77e77bce133dd26ade4fce459c77"><param name="Name" value="getEquation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#ad832b6a1c0d6d9c33e18416f35ebadf1"><param name="Name" value="getFittedData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a90e98bb4feb65ea172f52e620eafa4d6"><param name="Name" value="getRMS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a36b96f934ad113df28b1835e4e54a18c"><param name="Name" value="getSD"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#aec61d2105cf1ceb806c6b2f15f70c05a"><param name="Name" value="point"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a35b345e28e9788f59a71196d3b99af98"><param name="Name" value="rootMeanSquareError"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a7b3e01d5380bd09fb5bcbf9da4bcf6ec"><param name="Name" value="sizeOfData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#ac9327214c3db253b49dad5f19fe7995a"><param name="Name" value="standardDeviation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a17720b589f9cb1b55dc7fc3708c3212d"><param name="Name" value="X"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#afada8cfcc0ea5951d9ab95ee7d75537a"><param name="Name" value="Y"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html"><param name="Name" value="techniques::LeastSquareLine"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a6d56da4f252bda6b2b9e02122c807b1f"><param name="Name" value="A"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a4615e663cd4c1f36f321ea7865c63d72"><param name="Name" value="actualData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a8f95a8deccb68ea3656311bed4fc6b7c"><param name="Name" value="B"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a164a84a80878f356f0fe4683275c841a"><param name="Name" value="equation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#ae9bfcaf65b21deb2ab427c44c429892b"><param name="Name" value="findCurve"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#ac24e19d42f1127cba9f4352eb3703774"><param name="Name" value="fittedData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#ae844009e982dde7d2bde9cd45ddd1ccf"><param name="Name" value="getEquation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a9c32deca6d36e17c3148b33c7ac3f57b"><param name="Name" value="getFittedData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a523784393da9fea422beea1eec592116"><param name="Name" value="getRMS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#aa27d75f9c3c97d12388ff76acc0b2fa8"><param name="Name" value="getSD"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a385aea5faae703029b99254cc2fc1c1a"><param name="Name" value="LeastSquareLine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a8c48bea5e945263642079a8c565797d1"><param name="Name" value="point"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a8be54ca3eea2b0f7f0c6966cde807b4f"><param name="Name" value="rootMeanSquareError"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#af8865b2ac6e7bae185edc29315bc2b5d"><param name="Name" value="sizeOfData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a35025bc5e10103263a1a964a43130817"><param name="Name" value="standardDeviation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#aae47d7abf9f3d3707c11659c7c063e04"><param name="Name" value="X"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a9b5a892139e7a7df2888802e4b48fd01"><param name="Name" value="Y"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#aa5ca67b50dc6d5858a8b3dcd06058f59"><param name="Name" value="A"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a0e8d3353903c4cb94995fa86198dc252"><param name="Name" value="actualData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a3ee1d26dd714ace8c0052725aeeaccac"><param name="Name" value="B"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a2e98c0aea6ebf18317d6da88662aa13a"><param name="Name" value="C"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a55aabb7c12229023a13bf7b78cf7fe46"><param name="Name" value="equation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a9dadea8d07b3d705e51b88bd2081ad99"><param name="Name" value="findCurve"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#abe8264a1c7801fc61d5fdfcf72114825"><param name="Name" value="fittedData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#aaf7cfdf369ac00c74d44e03dab6b7cb5"><param name="Name" value="getEquation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a3cb9f2ca93e644d3390c8c58647f5964"><param name="Name" value="getFittedData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#afcb45ed55bd22386a896fb7d92dd18dc"><param name="Name" value="getRMS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#aea5476a6f8bedcdc11876e64062f51f9"><param name="Name" value="getSD"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a5ec30b983cb031ecb99d2398a71e205e"><param name="Name" value="LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a3037e55336d245177738ed4cb0037ef5"><param name="Name" value="maths"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a6580cb3912ad560456ee84d650cb6977"><param name="Name" value="point"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#acbf4ed9d291d2e6486f6dffe9cad801e"><param name="Name" value="rootMeanSquareError"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#afa307b80a6a34437f890ea53a82a7089"><param name="Name" value="sizeOfData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a5f5be752f2a12bbfeb5eb5d568cad224"><param name="Name" value="solution"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#ac024ffb8d283c377948a9cc378f239b7"><param name="Name" value="standardDeviation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a207271a4747a5b4a976c88f19167f9e8"><param name="Name" value="system"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#aa1244f43ef5f20405fd6737db8713e69"><param name="Name" value="X"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a05357f1c73fb6ea651c54fdeedb827a8"><param name="Name" value="Y"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#ae9d20b6dedf68700ea15d5591242539c"><param name="Name" value="actualData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a893045528111b73369b7ed8aa4a585e2"><param name="Name" value="B"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#ac657aa16340eda5de3c8d456ad5ca7c9"><param name="Name" value="C"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a3766d7dccf906fa8a331b3fa53441872"><param name="Name" value="degreeOfPolynomial"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#aec126d87b84e93dfa3fad962797612f2"><param name="Name" value="equation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a717ec87562a635f40d9b3450000b2d12"><param name="Name" value="findCurve"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a640edc2d462423fb6e37b9d6fd610ca1"><param name="Name" value="fittedData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a745af6ab086d0e2931ed0e3a8217f6e3"><param name="Name" value="getEquation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a6266debdcf4ffaf33f44c5757699d685"><param name="Name" value="getFittedData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#aac0d417ea9e89269848e53770aacf44a"><param name="Name" value="getRMS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a861e621c995cf5a36cd57f76ac7efec5"><param name="Name" value="getSD"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a623b845b59db5733a5468ac9432cd2a6"><param name="Name" value="maths"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a8732c3bcde636a23fd349b64c88a95a1"><param name="Name" value="P"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#af73030628a37ef9f2a9d358e4bc32d72"><param name="Name" value="point"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a29309b42bdea6ee64b52a8774bb8f7c4"><param name="Name" value="PolynomialFitting"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a13954b1e8fff2f0c3bddca2eca7ce15d"><param name="Name" value="rootMeanSquareError"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a4449018f054dd675288c867f99c9e91a"><param name="Name" value="sizeOfData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a48526a3c283037d01dea9bdabcee1aad"><param name="Name" value="solution"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#aec9de3a0ac7bc0ae8920a8b3bcfba8b7"><param name="Name" value="standardDeviation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a1eebdde0bc370ed701de03514c114b99"><param name="Name" value="system"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a87de481e9d730d25fa20151400e6d2d1"><param name="Name" value="X"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#ad1bb99c9b195523c4b6ca09792915785"><param name="Name" value="Y"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html"><param name="Name" value="techniques::PowerFit"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#af48dc5327b1075ad55703af4a2673c5d"><param name="Name" value="A"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#ac704971c6f8f4f8c62705f1c078903ff"><param name="Name" value="actualData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a4fd0df04d771c2bb3b891143609b72e2"><param name="Name" value="equation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a0a1bd4062fbccf38f3a898826379eb77"><param name="Name" value="findCurve"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a26086263448edaa7eedbb7d73741ce22"><param name="Name" value="fittedData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a949ccf8d089389f1d578e8617abde80d"><param name="Name" value="getEquation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#ad63c026ad5a81f84696e996b3c256f8c"><param name="Name" value="getFittedData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a30bd3969b3d2c3901cfd502bb5d9bcc9"><param name="Name" value="getRMS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a09f0fb309c001579b2c91ac1d204ab45"><param name="Name" value="getSD"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#aeb8f921d8631157c254e5af0eb783796"><param name="Name" value="M"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a3c5921c5c5d1a0bdeea853901f22c75a"><param name="Name" value="maths"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a105e49d15045c522f72cb9d0aa140ee9"><param name="Name" value="point"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a94a6029c0fe5b1f74edca4345dc9e4d2"><param name="Name" value="PowerFit"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a51ae2ba262d44ae0b00f1a3501d50940"><param name="Name" value="rootMeanSquareError"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a8f188876a10e10c4960f206b2338a440"><param name="Name" value="sizeOfData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#ae10493b4c9b73639c9c93f9c8938288d"><param name="Name" value="standardDeviation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#ae2da2f5edaf77706bf796cc20c7e5922"><param name="Name" value="X"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a44280896b8234ee773aa9dafb005618a"><param name="Name" value="Y"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#ae00d5fb1dabafd3993cf6bac8f5189c5"><param name="Name" value="techniques"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_maths.html#acb7c85c82aa4a28852108b944b7626db"><param name="Name" value="temp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a0b488a85eb8203bf670a69806bd4431b"><param name="Name" value="updatePosition"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a021b0d7c77c183856ad3d1a9bdd7b177"><param name="Name" value="value"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a7ca8636ba707251157dd9da09de0e9ae"><param name="Name" value="valueChanged"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a2d78b8d76caeb4ba973548d22ce08985"><param name="Name" value="valueM"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_main.html#a0499b38ad0d8e92dcb7fdb4ec9740e74"><param name="Name" value="values"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_help_window.html#ae8dd3f7fd718f943c1b31ec033f0fe62"><param name="Name" value="WIDTH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#aff2c213f646c8459cd92971d748e70dd"><param name="Name" value="writeToFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_point.html#ae9aa97acd39b4c73bfbd0687c0f343ac"><param name="Name" value="x"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a17720b589f9cb1b55dc7fc3708c3212d"><param name="Name" value="X"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#a17720b589f9cb1b55dc7fc3708c3212d"><param name="Name" value="techniques::DataLinearization"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#aae47d7abf9f3d3707c11659c7c063e04"><param name="Name" value="techniques::LeastSquareLine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#aa1244f43ef5f20405fd6737db8713e69"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#a87de481e9d730d25fa20151400e6d2d1"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#ae2da2f5edaf77706bf796cc20c7e5922"><param name="Name" value="techniques::PowerFit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a7a201ff6e0837c658d08106ad3702489"><param name="Name" value="xmax"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a2f2ce2f7cf6625c1827a77f7fcfee317"><param name="Name" value="xmin"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a0891c4da67fa692cb518726ed83debb8"><param name="Name" value="xScaleFactor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a743b41b3c7345bfb5b8a722590d9fca5"><param name="Name" value="xTrans"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_point.html#aca785012078c2ce8d4fabfdf336ceda8"><param name="Name" value="y"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#afada8cfcc0ea5951d9ab95ee7d75537a"><param name="Name" value="Y"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_data_linearization.html#afada8cfcc0ea5951d9ab95ee7d75537a"><param name="Name" value="techniques::DataLinearization"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_line.html#a9b5a892139e7a7df2888802e4b48fd01"><param name="Name" value="techniques::LeastSquareLine"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_least_square_parabola.html#a05357f1c73fb6ea651c54fdeedb827a8"><param name="Name" value="techniques::LeastSquareParabola"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_polynomial_fitting.html#ad1bb99c9b195523c4b6ca09792915785"><param name="Name" value="techniques::PolynomialFitting"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classtechniques_1_1_power_fit.html#a44280896b8234ee773aa9dafb005618a"><param name="Name" value="techniques::PowerFit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a8a75fdd3ce2a0ad2cfe6b307994c53af"><param name="Name" value="ymax"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a0343d67be8ecc2103df7d6176b83961b"><param name="Name" value="ymin"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#a97c689ff51f1524c58cc278ac3701e35"><param name="Name" value="yScaleFactor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classcurvefit_1_1_plot_canvas.html#aa1990bec4ab4d24be1fd38b0cd8b9a62"><param name="Name" value="yTrans"></OBJECT>
+</UL>
+</BODY>
+</HTML>

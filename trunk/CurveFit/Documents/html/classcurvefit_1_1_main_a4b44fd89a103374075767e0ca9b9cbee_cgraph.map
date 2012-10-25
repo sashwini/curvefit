@@ -1,0 +1,37 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcurvefit_1_1_plot_window.html#af3da0d64756e770df7b8e5a777008c93" title="curvefit.PlotWindow.processInput" alt="" coords="247,673,457,701"/>
+<area shape="rect" id="node5" href="$classtechniques_1_1_least_square_line.html#ae9bfcaf65b21deb2ab427c44c429892b" title="techniques.LeastSquareLine.findCurve" alt="" coords="865,192,1105,220"/>
+<area shape="rect" id="node7" href="$classcurvefit_1_1_plot_window.html#a688ddbeeb4492131a4782aab3aab4a79" title="curvefit.PlotWindow.getDataFromFile" alt="" coords="537,65,772,93"/>
+<area shape="rect" id="node9" href="$classtechniques_1_1_polynomial_fitting.html#a745af6ab086d0e2931ed0e3a8217f6e3" title="techniques.PolynomialFitting.getEquation" alt="" coords="524,116,785,144"/>
+<area shape="rect" id="node11" href="$classtechniques_1_1_data_linearization.html#a2f7c77e77bce133dd26ade4fce459c77" title="techniques.DataLinearization.getEquation" alt="" coords="524,167,785,195"/>
+<area shape="rect" id="node13" href="$classtechniques_1_1_power_fit.html#a949ccf8d089389f1d578e8617abde80d" title="techniques.PowerFit.getEquation" alt="" coords="549,217,760,245"/>
+<area shape="rect" id="node15" href="$classtechniques_1_1_least_square_parabola.html#aaf7cfdf369ac00c74d44e03dab6b7cb5" title="techniques.LeastSquareParabola.getEquation" alt="" coords="512,268,797,296"/>
+<area shape="rect" id="node17" href="$classtechniques_1_1_least_square_line.html#ae844009e982dde7d2bde9cd45ddd1ccf" title="techniques.LeastSquareLine.getEquation" alt="" coords="525,319,784,347"/>
+<area shape="rect" id="node19" href="$classtechniques_1_1_polynomial_fitting.html#a6266debdcf4ffaf33f44c5757699d685" title="techniques.PolynomialFitting.getFittedData" alt="" coords="520,420,789,448"/>
+<area shape="rect" id="node25" href="$classtechniques_1_1_data_linearization.html#ad832b6a1c0d6d9c33e18416f35ebadf1" title="techniques.DataLinearization.getFittedData" alt="" coords="520,471,789,499"/>
+<area shape="rect" id="node29" href="$classtechniques_1_1_power_fit.html#ad63c026ad5a81f84696e996b3c256f8c" title="techniques.PowerFit.getFittedData" alt="" coords="544,521,765,549"/>
+<area shape="rect" id="node33" href="$classtechniques_1_1_least_square_parabola.html#a3cb9f2ca93e644d3390c8c58647f5964" title="techniques.LeastSquareParabola.getFittedData" alt="" coords="508,572,801,600"/>
+<area shape="rect" id="node38" href="$classtechniques_1_1_least_square_line.html#a9c32deca6d36e17c3148b33c7ac3f57b" title="techniques.LeastSquareLine.getFittedData" alt="" coords="521,369,788,397"/>
+<area shape="rect" id="node41" href="$classcurvefit_1_1_plot_canvas.html#a9834fa061d96c7577f21b347fee1bcc9" title="curvefit.PlotCanvas.getGraphics" alt="" coords="553,623,756,651"/>
+<area shape="rect" id="node43" href="$classtechniques_1_1_polynomial_fitting.html#aac0d417ea9e89269848e53770aacf44a" title="techniques.PolynomialFitting.getRMS" alt="" coords="535,673,775,701"/>
+<area shape="rect" id="node45" href="$classtechniques_1_1_data_linearization.html#a90e98bb4feb65ea172f52e620eafa4d6" title="techniques.DataLinearization.getRMS" alt="" coords="535,724,775,752"/>
+<area shape="rect" id="node47" href="$classtechniques_1_1_power_fit.html#a30bd3969b3d2c3901cfd502bb5d9bcc9" title="techniques.PowerFit.getRMS" alt="" coords="560,775,749,803"/>
+<area shape="rect" id="node49" href="$classtechniques_1_1_least_square_parabola.html#afcb45ed55bd22386a896fb7d92dd18dc" title="techniques.LeastSquareParabola.getRMS" alt="" coords="523,825,787,853"/>
+<area shape="rect" id="node51" href="$classtechniques_1_1_least_square_line.html#a523784393da9fea422beea1eec592116" title="techniques.LeastSquareLine.getRMS" alt="" coords="537,876,772,904"/>
+<area shape="rect" id="node53" href="$classtechniques_1_1_polynomial_fitting.html#a861e621c995cf5a36cd57f76ac7efec5" title="techniques.PolynomialFitting.getSD" alt="" coords="541,927,768,955"/>
+<area shape="rect" id="node55" href="$classtechniques_1_1_data_linearization.html#a36b96f934ad113df28b1835e4e54a18c" title="techniques.DataLinearization.getSD" alt="" coords="541,977,768,1005"/>
+<area shape="rect" id="node57" href="$classtechniques_1_1_power_fit.html#a09f0fb309c001579b2c91ac1d204ab45" title="techniques.PowerFit.getSD" alt="" coords="565,1028,744,1056"/>
+<area shape="rect" id="node59" href="$classtechniques_1_1_least_square_parabola.html#aea5476a6f8bedcdc11876e64062f51f9" title="techniques.LeastSquareParabola.getSD" alt="" coords="529,1079,780,1107"/>
+<area shape="rect" id="node61" href="$classtechniques_1_1_least_square_line.html#aa27d75f9c3c97d12388ff76acc0b2fa8" title="techniques.LeastSquareLine.getSD" alt="" coords="543,1129,767,1157"/>
+<area shape="rect" id="node63" href="$classcurvefit_1_1_point.html#a612cbd14d9d621e81099c378948c5d35" title="curvefit.Point.getY" alt="" coords="923,1180,1048,1208"/>
+<area shape="rect" id="node65" href="$classcurvefit_1_1_plot_canvas.html#abe1450ee2cc910933a62a57f505a5638" title="curvefit.PlotCanvas.paint" alt="" coords="573,1231,736,1259"/>
+<area shape="rect" id="node70" href="$classcurvefit_1_1_plot_canvas.html#a811e48035e96b8c468a409d5eb8a9910" title="curvefit.PlotCanvas.setDataToPlot" alt="" coords="547,1281,763,1309"/>
+<area shape="rect" id="node74" href="$classcurvefit_1_1_error_report.html#ae791495524da9155180c7dec3df2b8d1" title="curvefit.ErrorReport.setRow" alt="" coords="565,1332,744,1360"/>
+<area shape="rect" id="node21" href="$classtechniques_1_1_polynomial_fitting.html#a717ec87562a635f40d9b3450000b2d12" title="techniques.PolynomialFitting.findCurve" alt="" coords="864,420,1107,448"/>
+<area shape="rect" id="node23" href="$classcurvefit_1_1_maths.html#ae671b8068243b6ed022f695e5aa303d7" title="curvefit.Maths.gauss" alt="" coords="1169,496,1308,524"/>
+<area shape="rect" id="node27" href="$classtechniques_1_1_data_linearization.html#a3c60b6388a38d8eb0fd9f40614df9f36" title="techniques.DataLinearization.findCurve" alt="" coords="864,471,1107,499"/>
+<area shape="rect" id="node31" href="$classtechniques_1_1_power_fit.html#a0a1bd4062fbccf38f3a898826379eb77" title="techniques.PowerFit.findCurve" alt="" coords="888,521,1083,549"/>
+<area shape="rect" id="node35" href="$classtechniques_1_1_least_square_parabola.html#a9dadea8d07b3d705e51b88bd2081ad99" title="techniques.LeastSquareParabola.findCurve" alt="" coords="852,572,1119,600"/>
+<area shape="rect" id="node67" href="$classcurvefit_1_1_point.html#a95e4a6b42358c68ba27e95a94d1ea7a3" title="curvefit.Point.getX" alt="" coords="924,1231,1047,1259"/>
+<area shape="rect" id="node72" href="$classcurvefit_1_1_plot_canvas.html#a11dc9ac9f94710818ad3e8a9a575eebc" title="curvefit.PlotCanvas.setRange" alt="" coords="891,1281,1080,1309"/>
+</map>
